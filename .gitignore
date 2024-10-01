@@ -98,4 +98,4 @@ crashlytics-build.properties
 *.booproj
 *.svd
 
-/Assets/
+/Assets/Assets/
